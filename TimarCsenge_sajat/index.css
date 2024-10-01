@@ -1,0 +1,138 @@
+body{
+    background-image: url("https://files.catbox.moe/zhr8ir.jpg");
+    background-repeat: repeat;
+    zoom: 80%;
+}
+
+table{
+    border-radius: 60px;
+    background-position: center;
+    display:table;
+    margin: 0px auto 0px auto;
+}
+ 
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+a{
+    color: rgb(69, 59, 128);
+}
+
+a:visited{
+    color:rgb(45, 52, 93)
+}
+
+a:hover{
+    color:(38, 29, 99)rgb(53, 53, 110);
+}
+
+td{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive;
+    text-align: center;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    background-position: center;
+    display:table;
+    margin: 0px auto 0px auto;
+    padding:30px;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive; 
+    text-align: center;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    background-position: center;
+    display:table;
+    margin: 0px auto 0px auto;
+    padding:60px;
+}
+
+
+
+h2{
+    font-size: 35px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive; 
+    text-align: left;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    background-position: center;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+    display:table;
+    margin: 0px auto 0px auto;
+    padding:30px;
+    border: 10px, white;
+}
+h3{
+    font-size: 35px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive; 
+    text-align: center;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    background-position: center;
+    display:table;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-color: white;
+    margin: 0px auto 0px auto;
+    padding:30px;
+    text-align: left;
+}
+
+h4{
+    font-size: 30px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive; 
+    text-align: center;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    border-radius: 60px;
+    background-position: center;
+    display:table;
+    margin: 5px auto 5px auto;
+    padding:30px;  
+}
+
+h5{
+    font-size: 45px;
+    color:rgb(233, 248, 255);
+    font-family: 'Coiny', cursive; 
+    text-align: left;
+    background-image: linear-gradient(rgb(85, 102, 158), rgb(135, 146, 233) );
+    opacity: 80%;
+    background-position: left;
+    padding:30px;   
+}
+
+h6{
+    font-size: 35px;
+    color:rgb(37, 91, 138);
+    font-family: 'Coiny', cursive; 
+    text-align: left;
+    background-image: linear-gradient(rgb(189, 255, 255), rgb(255, 255, 255) );
+    opacity: 70%;
+    border-bottom-left-radius: 70px;
+    border-top-left-radius: 70px;
+    background-position: left;
+    padding: 60px;
+    display:table;
+}
+
+#my{
+    zoom: 80%;
+    }
+    
